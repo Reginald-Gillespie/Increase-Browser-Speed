@@ -5,4 +5,4 @@ To run, copy the code from `code.js` into the console of your browser on the pag
 
 Currently it only works on one site at a time (you have to run the code once per tab you want to use it on), but eventually when I get all the bugs worked out I will turn it into an extension so it can run on all pages at the same time. 
 
-
+## Only supports chrome at the moment, I have no idea how it would work on other browsers
